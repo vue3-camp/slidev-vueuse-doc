@@ -1071,8 +1071,6 @@ packages/.vitepress/plugins/
 
 ---
 
-layout: end
-
 感谢观看！
 
 如有问题，请随时提问。
