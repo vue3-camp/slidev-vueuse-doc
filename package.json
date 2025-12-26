@@ -2,6 +2,7 @@
   "name": "vueuse-share-doc",
   "type": "module",
   "private": true,
+  "packageManager": "pnpm@10.26.2",
   "scripts": {
     "build": "slidev build --base /slidev-vueuse-doc/",
     "dev": "slidev --open",
